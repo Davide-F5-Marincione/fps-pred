@@ -1,0 +1,7 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{What?}{2}{0}{1}
+\beamer@sectionintoc {2}{Why?}{3}{0}{2}
+\beamer@sectionintoc {3}{Giving structure}{4}{0}{3}
+\beamer@sectionintoc {4}{Our theory}{9}{0}{4}
+\beamer@sectionintoc {5}{Data collection}{11}{0}{5}
+\beamer@sectionintoc {6}{The predictor}{13}{0}{6}
