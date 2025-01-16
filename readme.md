@@ -1,0 +1,1 @@
+This is the clone of a repo I have with Dario Loi, it is without lots of auxiliary files and all of the commits of the original repo, but it contains the full pipeline used in the project.
